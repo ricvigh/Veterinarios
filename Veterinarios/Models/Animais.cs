@@ -13,5 +13,7 @@ namespace Veterinarios.Models
         public string Raca { get; set; }
         public double Peso { get; set; }
         public string Foto { get; set; }
+
+        //adição FK
     }
 }
